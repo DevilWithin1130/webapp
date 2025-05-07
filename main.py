@@ -854,9 +854,10 @@ def print_options():
     print("5. Update Tencent Cloud API Credentials")
     print("6. Update Default Language and Timezone")
     print("7. Manage Recipients")
-    print("8. Exit")
+    print("8. Update DeepSeek API Key")
+    print("9. Exit")
     print("--------------------------------------------------")
-    userin=input("Enter your command[1-8]: ")
+    userin=input("Enter your command[1-9]: ")
 
     return userin
 
@@ -1042,7 +1043,7 @@ def manage_recipients(config):
 
 def main_menu(config):
     """Main menu for user interaction."""
-    commandlist = ['1','2','3','4','5','6','7','8']
+    commandlist = ['1','2','3','4','5','6','7','8','9']
     print("Welcome to your weather assistant!")
 
     if config.get('preferences', {}).get('firstUse', True):
@@ -1128,7 +1129,7 @@ def main_menu(config):
         print("---------------------------------------------------")
     
     command = print_options()
-    while command != '8':
+    while command != '9':
         if command not in commandlist:
             print("Invalid command. Please try again.")
         elif command == '1':
@@ -1197,6 +1198,18 @@ def main_menu(config):
                 print(f"Error: '{timezone}' is not a valid timezone. Please try again.")
         elif command == '7':
             manage_recipients(config)
+        elif command == '8':
+            print("\nUpdate DeepSeek API Key")
+            deepseek_api_key = input("Enter your DeepSeek API key: ")
+            deepseek_endpoint = input("Enter your DeepSeek API endpoint: ")
+            
+            if 'deepseek' not in config['api']:
+                config['api']['deepseek'] = {}
+            
+            config['api']['deepseek']['apiKey'] = deepseek_api_key
+            config['api']['deepseek']['endpoint'] = deepseek_endpoint
+            
+            update_config_file(config_path, config)
         command = print_options()
 
 def update_config_file(config_path, config):
