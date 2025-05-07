@@ -1059,6 +1059,10 @@ def main_menu(config):
         secret_key = input("Enter your Tencent Cloud API SecretKey: ")
         region = input("Enter your preferred Tencent Cloud region (default: ap-guangzhou): ") or "ap-guangzhou"
         
+        # DeepSeek API configuration
+        deepseek_api_key = input("Enter your DeepSeek API key: ")
+        deepseek_endpoint = input("Enter your DeepSeek API endpoint (default: https://api.deepseek.com): ") or "https://api.deepseek.com"
+        
         # Default location information
         city = input("Enter your default city: ")
         country_name = input("Enter your default country name: ")
@@ -1082,6 +1086,12 @@ def main_menu(config):
         config['api']['email']['secretId'] = secret_id
         config['api']['email']['secretKey'] = secret_key
         config['api']['email']['region'] = region
+        
+        # Set DeepSeek API configuration
+        if 'deepseek' not in config['api']:
+            config['api']['deepseek'] = {}
+        config['api']['deepseek']['apiKey'] = deepseek_api_key
+        config['api']['deepseek']['endpoint'] = deepseek_endpoint
         
         # Set default location and preferences
         config['preferences']['defaultLocation']['city'] = city
