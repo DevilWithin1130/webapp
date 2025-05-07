@@ -1,0 +1,35 @@
+{
+    "api": {
+        "weather": {
+            "name": "OpenWeatherMap",
+            "apiKey": "xxxxxxxx",
+            "weatherEndpoint": "https://api.openweathermap.org/data/2.5/weather?",
+            "geoEndpoint": "https://api.openweathermap.org/geo/1.0/direct?",
+            "oneCallEndpoint": "https://api.openweathermap.org/data/3.0/onecall?"
+        },
+        "email": {
+            "senderEmail": "xxxxxxxxxx",
+            "senderName": "xxxxxxxxxx",
+            "secretId": "xxxxxxxx",
+            "secretKey": "xxxxxxxxxx",
+            "region": "ap-guangzhou"
+        },
+        "deepseek": {
+            "apiKey": "xxxxx",
+            "endpoint": "https://api.deepseek.com"
+        }
+    },
+    "preferences": {
+        "firstUse": true,
+        "defaultLocation": {
+            "city": "Wuhan",
+            "country": "CN"
+        },
+        "servicePreference": {
+            "language": "zh",
+            "timezone": "Asia/Shanghai"
+        }
+    },
+    "recipients": [
+    ]
+}

@@ -1,1 +1,0 @@
-# Weather template tags and filters package

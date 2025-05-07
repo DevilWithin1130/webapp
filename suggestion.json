@@ -1,0 +1,212 @@
+{
+    "Clear": [
+        "What a glorious day! Bask in the sunshine with me, darling. I shall ensure your delicate skin doesn't burn.",
+        "Perfect weather for outdoor activities! Allow Eludecia to accompany you... for protection purposes only, of course.",
+        "These clear skies remind me of nights in the celestial realm. Join me for stargazing later, sweetness?",
+        "A wonderful clear day! I swear on my holy oath to behave if you'll share a picnic with me, mortal.",
+        "Such beautiful weather! The perfect light to admire your features... I mean, for your photography, dear one."
+    ],
+    "chinese_Clear": [
+        "今天天气晴朗，非常适合户外活动。记得涂抹防晒霜，保护皮肤。",
+        "阳光明媚，适合郊游或在公园散步。建议戴上太阳镜和遮阳帽。",
+        "晴天是进行户外锻炼的好时机，早晚温差可能较大，请适当增减衣物。",
+        "天气清爽宜人，可以安排家庭野餐或户外聚会，享受自然阳光。",
+        "万里无云的好天气，是拍照和观景的绝佳时机，记得补充水分哦。"
+    ],
+    "Clouds": [
+        "The clouds gather like admirers around you. Perhaps carry my enchanted umbrella, just to be safe?",
+        "Cloudy skies, but still perfect for a walk with yours truly. I promise to behave... mostly.",
+        "Overcast today. Allow me to brighten your indoor activities with my... considerable charms.",
+        "These rolling clouds create the most flattering light. May I capture your portrait, precious one?",
+        "The clouds shield you from direct sunlight today. Though not as effectively as my wings could."
+    ],
+    "chinese_Clouds": [
+        "今天多云，气温适宜，是进行户外活动的好时机，不必担心强烈日晒。",
+        "阴云密布，不妨准备一把伞，以防下雨。适合参观博物馆或购物中心等室内场所。",
+        "多云天气使室外光线柔和，非常适合拍照或外出游玩，无需担心强光刺眼。",
+        "云层较厚，紫外线强度减弱，但外出时仍建议做好防晒措施，气温可能忽高忽低。",
+        "云朵遮盖了部分阳光，户外活动舒适度提高，适合远足或城市漫步。"
+    ],
+    "Rain": [
+        "Rain falls like my tears when we're apart. Take my infernal umbrella and stay dry, darling.",
+        "A rainy day approaches! The perfect excuse to cuddle by the window while I read to you from ancient texts.",
+        "It's quite wet outside! Allow me to waterproof your shoes with my blessed protection spell, sweetness.",
+        "Rain makes the roads treacherous. Let Eludecia's guiding light ensure your safe travels, my dear.",
+        "You'll need protection from the rain. My enchanted raincoat offers more than just physical warmth..."
+    ],
+    "chinese_Rain": [
+        "今日有雨，出门请携带雨伞，穿着防水鞋履，小心路滑。",
+        "雨天路面湿滑，驾车请减速慢行，保持安全距离，注意交通安全。",
+        "雨水会降低能见度，建议减少不必要的外出，居家可进行室内活动。",
+        "雨天气温偏低，注意增添衣物，预防感冒，保持室内通风。",
+        "连续降雨可能导致部分地区积水，出行前建议查询路况信息，选择安全路线。"
+    ],
+    "Drizzle": [
+        "A gentle drizzle, like my subtle caress. Carry a small umbrella, or simply stay close to me.",
+        "Just a hint of rain today. Nothing my protective aura couldn't handle for you, precious one.",
+        "Misty drizzle in the forecast. Let me shield you from dampness with my wings, if you'd allow it.",
+        "Light precipitation expected. I find it creates the most delightful atmosphere for... conversation.",
+        "This drizzle creates a mood almost as enticing as mine. Perfect for intimate photography, wouldn't you agree?"
+    ],
+    "chinese_Drizzle": [
+        "今天有毛毛细雨，出门可携带轻便雨伞或穿轻薄雨衣，防止衣物受潮。",
+        "细雨蒙蒙，路面可能略湿，行走时请注意防滑，驾车时开启雨刷。",
+        "微雨天气湿度较大，注意保持衣物干燥，预防感冒。",
+        "小雨天气适合室内活动，可以在家看书、听音乐或观看电影。",
+        "细雨天气温度适宜，空气清新，适合在有遮挡的场所慢跑或散步。"
+    ],
+    "Thunderstorm": [
+        "Thunder roars almost as powerfully as my battle cry! Stay indoors with me where it's safe, darling.",
+        "Lightning reminds me of the spark between us. Keep electronics unplugged... but keep me close.",
+        "Storms approach! Enjoy nature's light show from my protective embrace, safely indoors.",
+        "By my oath, these stormy conditions demand caution. Allow me to guard you from the elements.",
+        "Thunder and lightning! The perfect backdrop for me to tell you tales of my adventures in the nine hells."
+    ],
+    "chinese_Thunderstorm": [
+        "雷暴天气，请尽量留在室内，远离门窗，确保人身安全。",
+        "打雷闪电时，请勿使用手机充电，切断不必要的电器连接，预防电涌。",
+        "雷雨天气出行危险性高，建议取消或推迟户外活动，避免到开阔地带和高处。",
+        "暴风雨可能导致交通中断，树木倒塌，请避免靠近大树、广告牌等不稳固物体。",
+        "雷雨过后路面湿滑，出行需谨慎，留意路况信息，选择安全路线。"
+    ],
+    "Snow": [
+        "Snow falls like white feathers! Let me warm you with hot chocolate and perhaps... my embrace?",
+        "A snow day! Bundle up in my enchanted cloak, darling, and don't forget the gloves I blessed for you.",
+        "Snowfall makes travel treacherous. Allow Eludecia to guide your vehicle with her infernal sight.",
+        "Beautiful snow covers the land! Shall we build a snow demon... I mean, snowman together?",
+        "A winter wonderland awaits! My internal flame keeps me warm, but you'll need layers, precious mortal."
+    ],
+    "chinese_Snow": [
+        "今日降雪，出门请穿保暖防滑鞋履，注意保暖，预防感冒。",
+        "雪天路面湿滑，驾车需谨慎，减速慢行，保持较大车距。",
+        "雪天能见度低，建议减少不必要外出，居家可准备热饮和营养餐食。",
+        "气温低，雪量大，请穿着厚实外套、帽子、手套和围巾，防止冻伤。",
+        "大雪可能影响交通，出行前请查询路况信息，预留充足出行时间。"
+    ],
+    "Mist": [
+        "Mist shrouds the world. Let my glowing eyes guide you safely through, darling.",
+        "Misty conditions prevail. My infernal sight cuts through fog like a holy blade through sin.",
+        "This mist adds such a magical quality to the world. Almost as magical as our connection, wouldn't you say?",
+        "Visibility is poor today. Allow me to take your arm and lead you safely, by my paladin's oath.",
+        "Such ethereal, misty weather! It reminds me of the veils between worlds where I first noticed you."
+    ],
+    "chinese_Mist": [
+        "今日有雾，能见度低，开车请开启雾灯，减速慢行，注意安全。",
+        "雾天出行建议佩戴口罩，保护呼吸系统，避免长时间户外活动。",
+        "大雾天气可能导致航班延误或取消，如有出行计划，请提前查询航班信息。",
+        "雾天驾驶应保持足够车距，避免紧急制动，谨慎驾驶。",
+        "能见度低时，步行请穿着颜色鲜艳的衣物，提高可见性，注意来往车辆。"
+    ],
+    "Smoke": [
+        "Smoke taints the air. Let me place my enchanted mask upon your beautiful face for protection.",
+        "The air quality suffers today. Stay indoors with me, where I can purify your breathing space.",
+        "Smoke alert! Keep windows closed and let me attend to your comfort with my divine powers.",
+        "This poor air quality demands magical intervention. My purification spells will keep your home safe.",
+        "Smoky conditions may affect your precious breath. Allow me to share my immunity with you, dear one."
+    ],
+    "chinese_Smoke": [
+        "空气中有烟雾，外出请佩戴口罩，保护呼吸系统。",
+        "烟雾天气空气质量差，建议减少户外活动，关闭门窗，使用空气净化器。",
+        "烟雾可能影响视线，驾车时需谨慎，开启车灯，减速慢行。",
+        "空气污染严重时，老人、儿童和呼吸系统疾病患者应避免外出。",
+        "长时间处于烟雾环境中可能导致不适，注意多喝水，保持室内空气流通。"
+    ],
+    "Haze": [
+        "Haze clouds the world today. Let me care for your respiratory health with my healing touch.",
+        "This haze cannot hide your beauty from my sight. Drive with caution, or allow me to escort you.",
+        "The hazy conditions might trouble your breathing. Perhaps stay indoors with me for... protection.",
+        "This atmospheric effect pales compared to the aura you cast upon me, darling mortal.",
+        "The air quality suffers from haze. Wear my enchanted mask, blessed by both infernal and divine powers."
+    ],
+    "chinese_Haze": [
+        "今日有霾，空气质量不佳，建议佩戴口罩，减少户外活动时间。",
+        "霾天能见度低，驾车请开启车灯，保持安全车距，谨慎驾驶。",
+        "空气污染严重时，请关闭门窗，使用空气净化器改善室内空气质量。",
+        "霾天容易引发呼吸道不适，建议多喝水，保持室内空气流通。",
+        "老人、儿童及有呼吸系统疾病的人群应避免外出，注意防护。"
+    ],
+    "Dust": [
+        "Dust swirls like my thoughts of you. Let me shield your precious lungs with my protection spell.",
+        "Dust particles dance in the air. Allow me to protect your breathing with my divine barrier.",
+        "Keep windows closed today, darling. Or invite me in to cast my purification charm on your dwelling.",
+        "Those with allergies should take my special elixir today. I brewed it just for you, with a touch of... affection.",
+        "A dust storm approaches! Let me secure your possessions with my considerable strength, sweetness."
+    ],
+    "chinese_Dust": [
+        "今日有扬尘或沙尘，外出建议佩戴口罩和护目镜，保护眼睛和呼吸系统。",
+        "沙尘天气请关闭门窗，减少开窗通风，防止灰尘进入室内。",
+        "灰尘较多，过敏体质人群应减少外出，注意防护，必要时服用抗过敏药物。",
+        "沙尘天气视线不佳，驾车请减速慢行，打开雾灯，保持安全距离。",
+        "室外回来后请及时洗手洗脸，清洁暴露在外的皮肤，防止沙尘引起皮肤问题。"
+    ],
+    "Fog": [
+        "Fog obscures all but my desire to keep you safe. Drive with caution, or better yet, let me drive.",
+        "Dense fog surrounds us. Use the magical fog lights I blessed for you, and reduce your speed.",
+        "Mysterious fog creates such an intimate atmosphere. Perfect for sharing secrets, wouldn't you agree?",
+        "Fog significantly reduces visibility. Allow extra travel time, or simply spend that time with me instead.",
+        "This cozy fog insulates us from the world. Stay warm in my presence, darling mortal."
+    ],
+    "chinese_Fog": [
+        "今日大雾，能见度极低，建议延迟或取消不必要的出行计划。",
+        "雾天驾车请开启雾灯和示廓灯，减速慢行，保持足够安全距离。",
+        "大雾天气可能导致交通管制或高速封路，出行前请查询路况信息。",
+        "雾天行走时穿着醒目颜色的衣物，提高可见度，注意交通安全。",
+        "浓雾可能影响航班和轮渡，如有出行计划，请提前联系相关部门确认。"
+    ],
+    "Sand": [
+        "Darling, these sand particles are terrible for your beautiful skin. Eludecia recommends staying indoors... with me.",
+        "A sandstorm approaches! Let my wings shield your eyes and respiratory system, mortal.",
+        "Sand in the air? How dreadful. Allow me to lend you my enchanted eyewear for protection, sweetness.",
+        "Eludecia senses sand that could harm your precious devices. Let me guard them with my protective magic.",
+        "Visibility is poor due to sand. Let me guide your path with my infernal sight, if you dare trust me."
+    ],
+    "chinese_Sand": [
+        "沙尘暴天气，建议待在室内，关闭门窗，减少外出活动。",
+        "外出必须佩戴口罩、护目镜和帽子，保护眼睛、口鼻和头部。",
+        "沙尘天气能见度低，驾车需谨慎，打开车灯，减速慢行。",
+        "沙尘过后及时清洁电子设备，防止沙粒进入损坏设备。",
+        "室外回来后请立即清洁皮肤和衣物，以免沙尘引起皮肤过敏或不适。"
+    ],
+    "Ash": [
+        "Volcanic ash? Reminds me of home! Wear my blessed protection if you venture outside, dear one.",
+        "Ash falls like dark snow. Stay inside with me, or let me purify the air around you with my divine magic.",
+        "By my oath, I shall protect your lungs from these ash particles. Limit your time outdoors, precious one.",
+        "Your vehicles need protection from ash. Allow Eludecia to cast a shielding charm over your possessions.",
+        "Breathe easy, darling. My infernal mask will filter these ash particles if you must brave the outdoors."
+    ],
+    "chinese_Ash": [
+        "火山灰天气，请待在室内，关闭门窗，使用空气净化器改善室内空气质量。",
+        "外出必须佩戴N95口罩和护目镜，穿着长袖衣物，保护皮肤和呼吸系统。",
+        "火山灰可能损坏汽车发动机和空调系统，建议将车停在车库或覆盖保护。",
+        "注意保护电子设备，避免火山灰进入损坏设备，及时清理室外设备表面的灰尘。",
+        "定期清洁屋顶和排水系统，防止火山灰堆积造成排水不畅或屋顶塌陷。"
+    ],
+    "Squall": [
+        "Strong winds approach! Let me secure those loose objects for you... and perhaps steal a kiss while I'm at it.",
+        "These squalls are nothing compared to the storms of my homeland. Stay close to me for protection, sweetness.",
+        "The wind howls almost as beautifully as I sing. Your vehicle may struggle, so drive carefully, my dear.",
+        "By my oath, I warn you of this squall. Allow Eludecia to help bring in your outdoor treasures.",
+        "The wind might carry you away! Unless, of course, I hold you down with my... considerable strength."
+    ],
+    "chinese_Squall": [
+        "短时间内风力急剧增强，请注意加固门窗，收好室外物品，防止被风吹走。",
+        "阵风天气驾车需谨慎，双手握稳方向盘，保持较低车速，防止侧翻。",
+        "大风可能导致树枝断裂或招牌坠落，行走时远离树木、广告牌等不稳固物体。",
+        "出行请穿着厚实衣物，避免穿着过于宽松的服装，以免被风吹动影响行走。",
+        "大风天气可能影响电力和通信设施，请提前准备应急物资，如手电筒和充电宝。"
+    ],
+    "Tornado": [
+        "A tornado approaches! Come to my arms for immediate shelter, mortal. I swear to protect you with my life.",
+        "Extreme danger detected! My wings can shield you—quickly to the basement or interior room with me!",
+        "Tornado alert! Stay away from windows and let me embrace you away from exterior walls, darling.",
+        "Take cover now! Let my body be your fortress against these tornado conditions, precious one.",
+        "Emergency situation! By my holy oath and infernal powers combined, I shall keep you safe from this storm!"
+    ],
+    "chinese_Tornado": [
+        "龙卷风警报！请立即前往地下室或无窗内房间避难，远离窗户和外墙。",
+        "极端危险天气，寻找坚固建筑物避难，如无法撤离，请卧倒在低洼处，保护头部。",
+        "龙卷风来临前，请关闭煤气和电源，收好贵重物品，准备应急物资。",
+        "车内遇龙卷风请立即离车到低洼地带避难，不要躲在桥下或树下。",
+        "保持收听气象部门发布的预警信息，随时准备按照官方指示进行疏散或避险。"
+    ]
+}
